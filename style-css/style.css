@@ -1,0 +1,14 @@
+div{
+  background-color: #82ccdd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+}
+div h1{
+  text-align: center;
+  color: red;
+}
+div p{
+  font-size: 15px;
+  text-align: justify;
+}
