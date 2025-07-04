@@ -12,3 +12,9 @@ div p{
   font-size: 15px;
   text-align: justify;
 }
+div img{
+  width: 400px;
+  margin: auto;
+  display: block;
+  
+}
